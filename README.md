@@ -1,3 +1,5 @@
+
+
 # puliForHostel
   使用 Swift 語言撰寫的一個飯店預約系統之民宿業者端
  
@@ -10,21 +12,22 @@
 ## Demo
 
 ### login 頁面
-相關controller: loginViewController.swift <br>
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/login.png) <br>
+![image](/pics/login.png "相關controller:loginViewController.swift") <br>
 
 ### 主畫面
-相關controller: mainOrderViewController.swift   相關controller: detailTableViewController.swift <br>
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%201.png) 
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%202.png) <br>
+相關controller: mainOrderViewController.swift    detailTableViewController.swift <br>
+![image](/pics/%E5%9C%96%E7%89%87%201.png "相關controller:loginViewController.swift") 
+![image](/pics/%E5%9C%96%E7%89%87%202.png [text1] "相關controller:loginViewController.swift") <br>
 
 ### 側邊欄
 相關controller: sidemenuTableViewController.swift <br>
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%203.png) <br>
+![image](/pics/%E5%9C%96%E7%89%87%203.png "相關controller:loginViewController.swift") <br>
 
 ### 民宿資訊
 相關controller: hostelInfoTableViewController <br>
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%204.png) <br>
+![image](/pics/%E5%9C%96%E7%89%87%204.png "相關controller:loginViewController.swift") <br>
 相關controller: changeInfoTableViewController.swift <br>
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%205.png)
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%206.png)
+![image](/pics/%E5%9C%96%E7%89%87%205.png "相關controller:loginViewController.swift")
+![image](/pics/%E5%9C%96%E7%89%87%206.png "相關controller:loginViewController.swift")
+
+[text1]: "相關controller: "
