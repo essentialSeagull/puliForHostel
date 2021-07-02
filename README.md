@@ -9,7 +9,7 @@
   為了整合埔里鎮的民宿飯店以及提高小民宿的曝光度，故民宿預約系統的構想由此誕生。<br>另有飯店預約系統之用戶端，由他人撰寫，預想中app 開始有個入口可選擇身份，之後根據身份會進到不同頁面。
  
  
-## Demo
+## DEMO圖片及講解
 
 ### **login 頁面**
 ![image](/pics/login.png "相關controller:loginViewController.swift") <br>
@@ -45,3 +45,5 @@
 選擇完即是新上傳的圖片。
 ```
 ![image](/pics/%E5%9C%96%E7%89%87%206.png "相關controller:changeInfoTableViewController.swift ")
+
+##DEMO影片
