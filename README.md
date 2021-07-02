@@ -17,17 +17,15 @@
 ### 主畫面
 相關controller: mainOrderViewController.swift    detailTableViewController.swift <br>
 ![image](/pics/%E5%9C%96%E7%89%87%201.png "相關controller:loginViewController.swift") 
-![image](/pics/%E5%9C%96%E7%89%87%202.png [text1] "相關controller:loginViewController.swift") <br>
+![image](/pics/%E5%9C%96%E7%89%87%202.png "相關controller:detailTableViewController.swift") <br>
 
 ### 側邊欄
 相關controller: sidemenuTableViewController.swift <br>
-![image](/pics/%E5%9C%96%E7%89%87%203.png "相關controller:loginViewController.swift") <br>
+![image](/pics/%E5%9C%96%E7%89%87%203.png "相關controller:sidemenuTableViewController.swift") <br>
 
 ### 民宿資訊
 相關controller: hostelInfoTableViewController <br>
-![image](/pics/%E5%9C%96%E7%89%87%204.png "相關controller:loginViewController.swift") <br>
+![image](/pics/%E5%9C%96%E7%89%87%204.png "相關controller:hostelInfoTableViewController") <br>
 相關controller: changeInfoTableViewController.swift <br>
-![image](/pics/%E5%9C%96%E7%89%87%205.png "相關controller:loginViewController.swift")
-![image](/pics/%E5%9C%96%E7%89%87%206.png "相關controller:loginViewController.swift")
-
-[text1]: "相關controller: "
+![image](/pics/%E5%9C%96%E7%89%87%205.png "相關controller:changeInfoTableViewController.swift ")
+![image](/pics/%E5%9C%96%E7%89%87%206.png "相關controller:changeInfoTableViewController.swift ")
