@@ -53,4 +53,4 @@
 ![image](/pics/%E5%9C%96%E7%89%87%206.png "相關controller:changeInfoTableViewController.swift ") <br>
 
 ##DEMO影片 <br>
-![DEMO影片，00:41~end](https://drive.google.com/file/d/1U8l13kPd-GGi5gK3tmlDN03ZV3I5CJqK/view?usp=sharing )
+[DEMO影片，00:41~end](https://drive.google.com/file/d/1U8l13kPd-GGi5gK3tmlDN03ZV3I5CJqK/view?usp=sharing )
