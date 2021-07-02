@@ -39,7 +39,7 @@
 ![image](/pics/%E5%9C%96%E7%89%87%205.png "相關controller:changeInfoTableViewController.swift ")
 ```
 文字區塊直接點文字框就可以做更改了，
-改完後會同步更新在上一個**民宿資訊頁面**以及**用戶端的民宿資訊頁面**中。
+改完後會同步更新在上一個民宿資訊頁面以及用戶端的民宿資訊頁面中。
 圖片部分可直接點擊要修改的圖片，
 會彈出一個actionsheet 選擇其中一個上傳圖片，
 選擇完即是新上傳的圖片。
@@ -47,3 +47,4 @@
 ![image](/pics/%E5%9C%96%E7%89%87%206.png "相關controller:changeInfoTableViewController.swift ")
 
 ##DEMO影片
+![url](https://drive.google.com/file/d/1U8l13kPd-GGi5gK3tmlDN03ZV3I5CJqK/view?usp=sharing "DEMO影片，00:41~end")
