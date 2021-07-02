@@ -14,9 +14,8 @@
 ![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/login.png) <br>
 
 ### 主畫面
-相關controller: mainOrderViewController.swift 相關controller: detailTableViewController.swift <br> //<br>
+相關controller: mainOrderViewController.swift   相關controller: detailTableViewController.swift <br>
 ![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%201.png) 
-
 ![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%202.png) <br>
 
 ### 側邊欄
