@@ -28,9 +28,9 @@
 
 ### 民宿資訊
 ![image](/pics/%E5%9C%96%E7%89%87%204.png "相關controller:hostelInfoTableViewController") <br>
-`這個頁面可看到民宿業者的個人資料，<br>
-有帳號頭貼、民宿照片、名稱、電話、地址以及簡介。<br>
-點擊右上角更改資訊button可修改民宿名稱以外的資訊。 ` <br>
+``這個頁面可看到民宿業者的個人資料，  
+有帳號頭貼、民宿照片、名稱、電話、地址以及簡介。  
+點擊右上角更改資訊button可修改民宿名稱以外的資訊。    ``
 
 ![image](/pics/%E5%9C%96%E7%89%87%205.png "相關controller:changeInfoTableViewController.swift ")
 
