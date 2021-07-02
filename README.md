@@ -16,23 +16,24 @@
 
 ### 主畫面
 ![image](/pics/%E5%9C%96%E7%89%87%201.png "相關controller:mainOrderViewController.swift") <br>
-此介面為所有訂單頁面，擁有民宿業者從用戶端接收的所有訂單，使用queryOrdered排序 <br>
-右上角可刷新訂單最新狀態<br>
+```
+此介面為所有訂單頁面，擁有民宿業者從用戶端接收的所有訂單，使用queryOrdered排序
+右上角可刷新訂單最新狀態
+```
 ![image](/pics/%E5%9C%96%E7%89%87%202.png "相關controller:detailTableViewController.swift") <br>
-點擊其中一個訂單即可查看此訂單更詳細的資料，如入住人數及客戶電話等。<br>
+`點擊其中一個訂單即可查看此訂單更詳細的資料，如入住人數及客戶電話等。`<br>
 
 ### 側邊欄
 ![image](/pics/%E5%9C%96%E7%89%87%203.png "相關controller:sidemenuTableViewController.swift") <br>
-側邊欄可以看到個人頭貼及名稱，以及登出button 以及進入個人民宿資訊的button <br>
-
+`側邊欄可以看到個人頭貼及名稱，以及登出button 以及進入個人民宿資訊的button` <br>
 
 ### 民宿資訊
 ![image](/pics/%E5%9C%96%E7%89%87%204.png "相關controller:hostelInfoTableViewController") <br>
 
 ```
-這個頁面可看到民宿業者的個人資料，  <br>
+這個頁面可看到民宿業者的個人資料，
 有帳號頭貼、民宿照片、名稱、電話、地址以及簡介。 
-點擊右上角更改資訊button可修改民宿名稱以外的資訊。   <br>
+點擊右上角更改資訊button可修改民宿名稱以外的資訊。 
 ```
 
 ![image](/pics/%E5%9C%96%E7%89%87%205.png "相關controller:changeInfoTableViewController.swift ")
