@@ -11,11 +11,11 @@
 ![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/login.png)
 
 ### 主畫面
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/圖片 1.png)
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/圖片 2.png)
+![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%201.png)
+![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%202.png)
 ### 側邊欄
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/圖片 3.png)
+![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%203.png)
 ### 民宿資訊
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/圖片 4.png)
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/圖片 5.png)
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/圖片 6.png)
+![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%204.png)
+![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%205.png)
+![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%206.png)
