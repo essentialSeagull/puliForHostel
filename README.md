@@ -11,21 +11,21 @@
 
 ### login 頁面
 相關controller: loginViewController.swift <br>
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/login.png)
+![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/login.png) <br>
 
 ### 主畫面
 相關controller: mainOrderViewController.swift <br>
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%201.png)
+![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%201.png) <br>
 相關controller: detailTableViewController.swift <br>
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%202.png)
+![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%202.png) <br>
 
 ### 側邊欄
 相關controller: sidemenuTableViewController.swift <br>
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%203.png)
+![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%203.png) <br>
 
 ### 民宿資訊
 相關controller: hostelInfoTableViewController <br>
-![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%204.png)
+![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%204.png) <br>
 相關controller: changeInfoTableViewController.swift <br>
 ![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%205.png)
 ![image](https://github.com/essentialSeagull/puliForHostel/blob/main/pics/%E5%9C%96%E7%89%87%206.png)
