@@ -1,6 +1,6 @@
 
 
-# puliForHostel＿專題 <br>
+# ＿專題 <br>
   使用 Swift 語言撰寫的一個飯店預約系統之民宿業者端<br>
  
  
@@ -11,7 +11,8 @@
   另有飯店預約系統之用戶端，由他人撰寫，<br>
   預想中app 開始有個入口可選擇身份，之後根據身份會進到不同頁面。
  
- 
+##DEMO影片 <br>
+[DEMO影片，00:41~end](https://drive.google.com/file/d/1U8l13kPd-GGi5gK3tmlDN03ZV3I5CJqK/view?usp=sharing )
 ## DEMO圖片及講解 <br>
 
 ### Login 頁面<br>
@@ -52,5 +53,3 @@
 ```
 ![image](/pics/%E5%9C%96%E7%89%87%206.png "相關controller:changeInfoTableViewController.swift ") <br>
 
-##DEMO影片 <br>
-[DEMO影片，00:41~end](https://drive.google.com/file/d/1U8l13kPd-GGi5gK3tmlDN03ZV3I5CJqK/view?usp=sharing )
